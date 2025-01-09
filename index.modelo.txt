@@ -15,24 +15,7 @@
 <x3d width='800px' height='800px'>
 <scene>
 <inline url="https://github.com/Vircatal/modelo.git"> </inline>
-</scene>ply
-format binary_little_endian 1.0
-comment VCGLIB generated
-element vertex 5003
-property float x
-property float y
-property float z
-property uchar red
-property uchar green
-property uchar blue
-property uchar alpha
-property float quality
-element face 9998
-property list uchar int vertex_indices
-end_header
-  P@_ C   _      }A EN@n<  j"` MJD 
-FA  O@` x 7`       AOON@ )    _ DC?   A+S@  U   _ @?? ۋ
-A S@
+</scene>
 </x3d>
 <p>
     Texto final
